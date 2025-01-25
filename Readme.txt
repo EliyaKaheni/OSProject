@@ -35,6 +35,5 @@ This approach can be extended to more complex scenarios with varying buffer size
 
 ## Contributers
 Iliya Kaheni
-Hamidreza Entezari
 Alireza Dehghani EshratAbad
 Instructor: Mahmoud Shirazi Ph.D.
